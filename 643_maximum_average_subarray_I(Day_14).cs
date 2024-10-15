@@ -16,5 +16,6 @@ public class Solution {
             ans = Math.Max(ans,avg);
         }
         return ans;
+        
     }
 }
